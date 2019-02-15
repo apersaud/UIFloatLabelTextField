@@ -65,7 +65,7 @@
     [self setupTextField];
     
     // Reference Apple's clearButton and add animation
-    [self setuptextFieldClearButton];
+    // [self setuptextFieldClearButton];
     
     // Build floatLabel
     [self setupFloatLabel];
